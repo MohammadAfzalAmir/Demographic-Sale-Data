@@ -1,6 +1,5 @@
 # Demorgraphic-Sales-Data
 This repository contains a project focused on analyzing sales data across various demographic segments. By leveraging this dataset, you can uncover key trends, customer behaviors, and insights that can guide strategic decision-making.
-
 •Data Exploration: Summarizes the structure of the dataset, including key metrics and relationships between variables.
 
 •Visualization: Provides visual tools to understand demographic-based sales trends.
